@@ -30,5 +30,5 @@
 <img src="https://myreadme.vercel.app/api/embed/iamdenis03?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
-<p><img align="left" src="https://lanyard.cnrad.dev/api/507443561193668629?idleMessage=Too%20lazy%20right%20now!" alt="507443561193668629" /></p>
+<p><img align="left" src="https://lanyard.cnrad.dev/api/507443561193668629?idleMessage=Living%20life..." alt="507443561193668629" /></p>
 <p><img src="https://github-readme-stackoverflow.vercel.app/?userID=21538879&layout=compact&theme=dark"></p>
